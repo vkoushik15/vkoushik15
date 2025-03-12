@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venkat Koushik</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 <img align = "right" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vkoushik15&label=Profile%20views&color=0e75b6&style=flat" alt="vkoushik15" /> </p>
 
