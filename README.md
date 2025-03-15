@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web3**
 
-- 👯 I’m looking to collaborate on **Web development projects**
+- 👯 I’m looking to collaborate on **Web Development projects**
 
 - 💬 Ask me about **React,Express,Node,MongoDb**
 
