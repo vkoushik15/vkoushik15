@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development projects**
 
-- 💬 Ask me about **React,Express,Node,MongoDb**
+- 💬 Ask me about **React,Express,Node,MongoDb,Javascript**
 
 - 📫 How to reach me **venkatkoushik15@gmail.com**
 
